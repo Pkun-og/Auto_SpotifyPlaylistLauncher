@@ -8,3 +8,7 @@ It launches any spotify playlist on startup saving the hassle of opening the bro
 3. Has a toggle for running on startup.
 4. Can save the playlists in a json.
 5. Can edit the links to the playlists and remove playlists.
+
+## How to use:
+1. Download the script
+2. ## Under Construction
