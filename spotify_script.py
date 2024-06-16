@@ -23,7 +23,7 @@ class SpotifyLauncher(QtWidgets.QWidget):
         self.setGeometry(100, 100, 600, 400)
         
         # Set the window icon
-        self.setWindowIcon(QtGui.QIcon(r'C:\Users\Mirai\Desktop\Spotify_automation\logo_p.png'))
+        self.setWindowIcon(QtGui.QIcon(r'logo_p.png'))
         self.setAutoFillBackground(True)
         
         
