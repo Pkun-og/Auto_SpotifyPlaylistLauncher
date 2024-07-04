@@ -1,5 +1,5 @@
 # Auto_SpotifyPlaylistLauncher
-It launches any spotify playlist on startup saving the hassle of opening the browser and navigating to your favourate playlists, every time on windows startup.
+It launches any spotify playlist on startup saving the hassle of opening the browser, navigating to your favourate playlists and pressing play, every time on windows startup.
 (If you use a browser to get around spotify's ads)
 
 
